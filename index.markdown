@@ -4,7 +4,7 @@
 
 layout: page
 title: Who am I
-permalink: /publications/
+permalink: /who am i/
 ---
 
 I am a dedecated learner with broad interests ranging from [supramolecular chemistry](/Publications/) to [logistcs](/projects/) and [QA automation engineering](/projects/) 
