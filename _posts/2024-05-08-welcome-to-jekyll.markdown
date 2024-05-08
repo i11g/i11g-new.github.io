@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Homepage
 title:  "Who am I"
-permalink: /about/
+permalink: /homepage/
 ---
