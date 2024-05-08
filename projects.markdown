@@ -7,4 +7,3 @@ title: Projects
 permalink: /projects/
 ---
 
-I am a dedecated learner with broad interests ranging from [supramolecular chemistry](/Publications/) to [logistcs](/projects/) and [QA automation engineering](/projects/) 
