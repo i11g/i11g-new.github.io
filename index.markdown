@@ -7,6 +7,6 @@ author_profile: true
 
 ---
 
-Picture "/"
+Who am I
 
 I am a dedicated learner with broad interests ranging from [project management](/projects) in different areas including workplace development, finance, logistics and archiving to [supramolecular chemistry](/Publications/) and [QA automation engineering](/projects/). Recently, my attention and learning enthusiasm has focused on the field of Computer Science and especially on Automation testing and .NET.         
