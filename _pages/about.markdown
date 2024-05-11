@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Education
+title: About Me
 permalink: /about/
 ---
 

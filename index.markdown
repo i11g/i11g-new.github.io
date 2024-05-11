@@ -6,9 +6,14 @@ layout: single
 author_profile: true
 
 ---
-
-Who am I
+Something about me 
 
 I'm a dedicated learner with a passion for exploring diverse fields, ranging from [project management](/projects) and [supramolecular chemistry](/Publications/) to computer science and QA Automation testing 
 
-I thrive on curiosity and love diving deep into different fields and subjects. Currently, I'm focusing my learning journey on automation testing and .NET development.   
+I thrive on curiosity and love diving deep into different fields and subjects. Currently, I'm focusing my learning journey on automation testing and .NET development.  
+
+Learning form my [experiance](/about) goal is to cultivate an atmosphere of enjoyment and creativity within every team and project, where the fusion of laughter and creativity ignites a spark of innovation and creativity.
+
+## 📧How we can connect? 
+
+Feel free to explore my site and if you want to reach me drop an email at [ivg33000@gmail.com](mailto: ivg33000@gmail.com).😊
