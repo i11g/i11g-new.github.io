@@ -8,11 +8,11 @@ author_profile: true
 ---
 Something about me 
 
-I'm a dedicated learner with a passion for exploring diverse fields, ranging from [project management](/projects) and [supramolecular chemistry](/Publications/) to computer science and QA Automation testing 
+I'm a dedicated learner with a passion for exploring diverse fields, ranging from [project management](/projects) and [supramolecular chemistry](/Publications/) to computer science and QA Automation testing. Currently, I'm focusing my learning and [educational](/education) journey on QA Automation testing and .NET development.   
 
-I thrive on curiosity and love diving deep into different fields and subjects. Currently, I'm focusing my learning journey on automation testing and .NET development.  
+During my 15+ years of [experience](/experiance), I've led diverse projects focused on optimizing efficiency and tackling a wide array of business challenges. "
 
-Learning form my [experiance](/about) goal is to cultivate an atmosphere of enjoyment and creativity within every team and project, where the fusion of laughter and creativity ignites a spark of innovation and creativity.
+ Learning from my [experiance](/about) goal is to cultivate an atmosphere of enjoyment and creativity within every team and project, where the fusion of laughter and creativity ignites a spark of innovation and creativity.
 
 ## 📧How we can connect? 
 
