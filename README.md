@@ -1,0 +1,1 @@
+This is my personal site developed using Jekyll Minimal-Mistakes theme and markdown with a little bit of HTML 5 and CSS.  
