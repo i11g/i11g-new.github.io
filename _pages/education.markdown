@@ -3,7 +3,6 @@ layout: single
 title: Education
 permalink: /education/
 ---
-### Education
 
 #### Ph.D. in Physical Science  
 **Area:** Supramolecular Chemistry  

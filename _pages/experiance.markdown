@@ -4,7 +4,7 @@ title: Experiance
 permalink: /experiance/
 ---
 
-### Work Experience
+### Professional Experience
 
 #### Head of HQ Investment Project, Logistics and Transportation Department
 - **Company:** DSK Bank

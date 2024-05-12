@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+title: About Me 
 author_profile: true
 
 ---
-# Something about me 
+
 
 I'm a dedicated learner with a passion for exploring different fields, ranging from [project management](/projects) and [supramolecular chemistry](/Publications/) to computer science and QA Automation testing. Currently, I'm focusing my learning and [educational](/education) journey on QA Automation testing and .NET development.   
 
