@@ -109,14 +109,14 @@ analytics:
 # Site Author
 author:
   name             : "Ivan Georgiev"
-  avatar           : "/assets/images/two.jpeg"
+  avatar           : "/assets/images/IG.jpg"
   bio              : "I thrive on curiosity and love to dive deep into different fields and subjects." 
   location         : "Sofia"
   email            : ivg33000@gmail.com
   links:
-    - #label: "Email"
-      #icon:  "fas fa-fw fa-envelope-square"
-      # url: "mailto: ivg33000@gmail.com"
+    - label: "Email"
+      icon:  "fas fa-fw fa-envelope-square"
+      url: "mailto: ivg33000@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
