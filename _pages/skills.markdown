@@ -1,5 +1,5 @@
 ---
 layout: splash
-title: Experiance
-permalink: /experiance/
+title: Skills
+permalink: /skills/
 ---
