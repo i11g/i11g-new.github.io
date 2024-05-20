@@ -6,7 +6,7 @@ permalink: /education/
 
 #### Ph.D. in Physical Science  
 **Area:** Supramolecular Chemistry  
-**University:** The University of Iowa, Iowa City, IA, USA  
+**University:** The University of Iowa, Iowa City, IA, USA 
 **Department:** Department of Chemistry  
 **Period:** 2003 - 2007  
 
