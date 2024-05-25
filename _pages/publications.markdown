@@ -3,7 +3,7 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-## <u> Publications
+## 📝 <u>Publications
 
 #### Book Chapter
 

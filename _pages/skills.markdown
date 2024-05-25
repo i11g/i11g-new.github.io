@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills/
 ---
 
-## Technical Skills and Competencies
+## 🛠️ Technical Skills and Competencies
 
 #### Programming Languages
 - C#, JavaScript, CSS, HTML
@@ -24,7 +24,7 @@ permalink: /skills/
 - Spectroscopy (NMR, IR, UV-Vis)
 - Scanning electron microscopy and atomic force microscopy
 
-## Soft Skills
+## 🤝 Soft Skills
 
 - Effective teamwork
 - Flexibility and skills to adapt to new circumstances and changes
