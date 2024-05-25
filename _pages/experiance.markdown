@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: Experiance
-permalink: /experiance/
+title: Experience
+permalink: /experience/
 ---
 
 ## 📈 Professional Experience
