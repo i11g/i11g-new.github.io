@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 📚 Education
+title: 📚 <u>Education
 permalink: /education/
 ---
 
@@ -27,7 +27,7 @@ permalink: /education/
 **Department:** Department of Chemistry  
 **Period:** 2000 - 2002  
 
-# Honors
+# <u>Honors
 
 - Vice President of Missouri State University ACS Student Affiliate Chapter/Chemistry Honors Society
 - American Chemical Society, Division of Inorganic Chemistry, Student Travel Award to the 232nd ACS National Meeting and Exposition, San Francisco, CA, 2006
@@ -35,3 +35,29 @@ permalink: /education/
 - Moderator at the 8th James F. Jacobsen Graduate Forum, Iowa City, IA, 2006
 - The University of Iowa Student Government Travel Award to International Symposium on Supramolecular Chemistry XIII, South Bend, IN, 2004
 - The University of Iowa Chemistry Department Travel Award to the 38th ACS Midwest Regional Meeting, Columbia, MO, 2003
+
+# <u> Trainings
+
+### 2021
+- **New Service Vision Model** - Anastasia Vladychynska Consulting
+
+### 2019
+- **Facility management and energy services** - Sofia University “St. Kliment Ohridski”
+
+### 2018
+- **Facility Management** - WIFI Bulgaria
+
+### 2017
+- **Record keeping, archiving, storage and usage of banks archiving documents according to the new normative acts** - International banking institute
+
+### 2013
+- **Effective financial markets negotiations** - OD&M Consulting
+
+### 2011
+- **Results achievements and relationship management** - In your Hands
+- **Targeting skills** - In your Hands
+
+### 2010
+- **Leadership and teams’ motivations** - In your Hands
+- **Delegations skills and monitoring** - In your Hands
+
